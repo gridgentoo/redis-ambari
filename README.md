@@ -1,3 +1,5 @@
+https://github.com/nikunjness/redis-ambari
+
 #### An Ambari Stack for Redis
 Ambari stack for easily installing and managing Redis on HDP cluster
 
